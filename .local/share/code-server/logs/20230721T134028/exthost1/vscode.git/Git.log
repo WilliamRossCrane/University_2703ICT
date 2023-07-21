@@ -1,0 +1,27 @@
+2023-07-21 13:42:29.017 [info] Log level: Info
+2023-07-21 13:42:29.017 [info] Validating found git in: "git"
+2023-07-21 13:42:29.017 [info] Using git "2.30.2" from "git"
+2023-07-21 13:42:29.017 [info] > git rev-parse --show-toplevel [36ms]
+2023-07-21 13:42:29.017 [info] fatal: not a git repository (or any parent up to mount point /var)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-07-21 13:42:29.017 [info] > git rev-parse --show-toplevel [2ms]
+2023-07-21 13:42:29.017 [info] fatal: not a git repository (or any parent up to mount point /var)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-07-21 13:42:29.017 [info] > git rev-parse --show-toplevel [1ms]
+2023-07-21 13:42:29.017 [info] fatal: not a git repository (or any parent up to mount point /var)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-07-21 13:42:29.017 [info] > git rev-parse --show-toplevel [2ms]
+2023-07-21 13:42:29.017 [info] fatal: not a git repository (or any parent up to mount point /var)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-07-21 13:42:29.017 [info] > git rev-parse --show-toplevel [2ms]
+2023-07-21 13:42:29.017 [info] fatal: not a git repository (or any parent up to mount point /var)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-07-21 13:42:29.018 [info] > git rev-parse --show-toplevel [25ms]
+2023-07-21 13:42:29.018 [info] fatal: not a git repository (or any parent up to mount point /var)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-07-21 13:49:19.156 [info] > git rev-parse --show-toplevel [102ms]
+2023-07-21 13:49:19.156 [info] fatal: not a git repository (or any parent up to mount point /var)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-07-21 13:51:32.888 [info] > git rev-parse --show-toplevel [2ms]
+2023-07-21 13:51:32.891 [info] fatal: not a git repository (or any parent up to mount point /var)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

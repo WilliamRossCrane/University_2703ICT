@@ -1,0 +1,25 @@
+2023-07-12 12:46:56.591 [info] 
+
+
+
+
+2023-07-12 12:46:56.591 [info] Extension host agent started.
+2023-07-12 12:46:56.604 [info] Started initializing default profile extensions in extensions installation folder. file:///var/www/.local/share/code-server/extensions
+2023-07-12 12:46:56.629 [info] Completed initializing default profile extensions in extensions installation folder. file:///var/www/.local/share/code-server/extensions
+2023-07-12 12:47:14.293 [info] [<unknown>][cb5e5f22][ManagementConnection] New connection established.
+2023-07-12 12:47:14.606 [warning] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: libsecret-1.so.0: cannot open shared object file: No such file or directory
+2023-07-12 12:47:15.211 [info] [<unknown>][89c7928a][ExtensionHostConnection] New connection established.
+2023-07-12 12:47:15.218 [info] [<unknown>][89c7928a][ExtensionHostConnection] <979> Launched Extension Host Process.
+2023-07-12 12:48:43.431 [info] [<unknown>][3195b345][ManagementConnection] New connection established.
+2023-07-12 12:48:44.388 [info] [<unknown>][acc4bfeb][ExtensionHostConnection] New connection established.
+2023-07-12 12:48:44.398 [info] [<unknown>][acc4bfeb][ExtensionHostConnection] <2573> Launched Extension Host Process.
+2023-07-12 12:48:45.630 [warning] RequestStore#acceptReply was called without receiving a matching request 13
+2023-07-12 12:48:45.631 [warning] RequestStore#acceptReply was called without receiving a matching request 14
+2023-07-12 12:48:45.631 [warning] RequestStore#acceptReply was called without receiving a matching request 15
+2023-07-12 12:48:45.631 [warning] RequestStore#acceptReply was called without receiving a matching request 16
+2023-07-12 12:48:45.631 [warning] RequestStore#acceptReply was called without receiving a matching request 17
+2023-07-12 12:48:45.631 [warning] RequestStore#acceptReply was called without receiving a matching request 18
+2023-07-12 12:48:48.764 [info] [<unknown>][3195b345][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-07-12 12:48:48.789 [info] [<unknown>][acc4bfeb][ExtensionHostConnection] <2573> Extension Host Process exited with code: 0, signal: null.
+2023-07-12 12:54:10.495 [info] [<unknown>][cb5e5f22][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-07-12 12:54:10.547 [info] [<unknown>][89c7928a][ExtensionHostConnection] <979> Extension Host Process exited with code: 0, signal: null.

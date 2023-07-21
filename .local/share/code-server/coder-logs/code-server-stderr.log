@@ -1,0 +1,10 @@
+[12:47:14] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: libsecret-1.so.0: cannot open shared object file: No such file or directory
+[12:48:45] RequestStore#acceptReply was called without receiving a matching request 13
+[12:48:45] RequestStore#acceptReply was called without receiving a matching request 14
+[12:48:45] RequestStore#acceptReply was called without receiving a matching request 15
+[12:48:45] RequestStore#acceptReply was called without receiving a matching request 16
+[12:48:45] RequestStore#acceptReply was called without receiving a matching request 17
+[12:48:45] RequestStore#acceptReply was called without receiving a matching request 18
+Failed login attempt {"xForwardedFor":"10.24.32.82","remoteAddress":"10.0.1.3","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","timestamp":1689910869}
+[13:42:23] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: libsecret-1.so.0: cannot open shared object file: No such file or directory
+File not found: /usr/local/code-server-4.13.0-linux-amd64/lib/vscode/node_modules/vscode-regexp-languagedetection/dist/index.js

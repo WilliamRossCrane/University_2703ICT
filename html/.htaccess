@@ -1,0 +1,42 @@
+#
+# Modify Apache Server for this directory...
+#
+# Common Options are...
+#    Indexes                 Generate a directory index if no index.html
+#    FollowSymLinks          Follow symbolic links as normal
+#    SymLinksIfOwnerMatch    allow symbolic link if the link and file match
+#    ExecCGI                 execute .cgi files for the resulting document
+#    Includes                Full server side includes
+#    IncludesNoExec          server side includes but don't execute anything
+#
+# Default Server Options are...
+#   Options Indexes FollowSymLinks
+#
+# Disable Indexes and limit SymLinks
+Options SymLinksIfOwnerMatch
+
+#
+# Uncomment to Enable ".cgi" for CGI scripts...
+#
+#Options +ExecCGI
+#AddHandler cgi-script .cgi
+
+#
+# Uncomment to Enable ".shtml" for server side includes in HTML
+#
+#Options +Includes
+#AddType text/html .shtml
+#AddOutputFilter includes .shtml
+
+#
+# To password protect your web site see...
+#     https://antofthy.gitlab.io/info/www/passwd_protect_101.txt
+# Run the command to create a password file...
+#      htpasswd -c ~/html/.htpasswd {login_username}
+# Then uncomment the following...
+#
+#AuthName "Password Protected Directory"
+#AuthUserFile /var/www/html/.htpasswd
+#AuthType Basic
+#require valid-user
+
