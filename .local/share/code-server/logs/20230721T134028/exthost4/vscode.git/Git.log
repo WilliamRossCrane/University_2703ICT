@@ -1,0 +1,25 @@
+2023-07-21 15:05:26.751 [info] Log level: Info
+2023-07-21 15:05:26.751 [info] Validating found git in: "git"
+2023-07-21 15:05:26.751 [info] Using git "2.30.2" from "git"
+2023-07-21 15:05:26.751 [info] > git rev-parse --show-toplevel [37ms]
+2023-07-21 15:05:26.751 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-07-21 15:05:26.751 [info] Open repository: /var/www
+2023-07-21 15:05:26.752 [info] > git rev-parse --show-toplevel [7ms]
+2023-07-21 15:05:26.752 [info] fatal: this operation must be run in a work tree
+2023-07-21 15:05:26.752 [info] > git config --get commit.template [7ms]
+2023-07-21 15:05:26.752 [info] > git rev-parse --show-toplevel [7ms]
+2023-07-21 15:05:26.752 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2023-07-21 15:05:26.752 [info] > git rev-parse --show-toplevel [7ms]
+2023-07-21 15:05:26.752 [info] > git rev-parse --show-toplevel [2ms]
+2023-07-21 15:05:26.752 [info] > git rev-parse --show-toplevel [2ms]
+2023-07-21 15:05:26.752 [info] > git status -z -uall [29ms]
+2023-07-21 15:05:26.752 [info] > git config --get commit.template [6ms]
+2023-07-21 15:05:26.752 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-07-21 15:05:26.752 [info] > git status -z -uall [25ms]
+2023-07-21 15:05:26.752 [info] > git check-ignore -v -z --stdin [3ms]
+2023-07-21 15:05:26.752 [info] > git show --textconv :.git/COMMIT_EDITMSG [8ms]
+2023-07-21 15:05:26.752 [info] > git ls-files --stage -- /var/www/.git/COMMIT_EDITMSG [3ms]
+2023-07-21 15:05:36.259 [info] > git config --get commit.template [4ms]
+2023-07-21 15:05:36.268 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-07-21 15:05:36.299 [info] > git status -z -uall [25ms]
+2023-07-21 15:05:37.201 [info] > git check-ignore -v -z --stdin [3ms]
