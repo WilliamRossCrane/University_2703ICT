@@ -1,0 +1,54 @@
+vscode-remote://s5096657.elf.ict.griffith.edu.au:8443/var/www/html/webAppDev/Assignment1/app/Http/Controllers/CommentController.php {"mtime":1693283593514,"ctime":1693283593514,"size":924,"etag":"3b4k8m4rftp","orphaned":false,"typeId":""}
+<?php
+
+use Illuminate\Http\Request;
+use App\Models\Post;
+use App\Models\Comment;
+use App\Models\CommentReply;
+
+class CommentController extends Controller
+{
+    // ...
+
+    // Method to store a new comment for a post
+    public function store(Request $request, Post $post)
+    {
+        // Retrieve user's name from session
+        $userName = session()->get('user_name');
+
+        // Validate input data using Laravel's validation rules
+        $request->validate([
+            'message' => 'required', // Message is required
+        ]);
+
+        // Create a new comment instance with user's name and validated data
+        $comment = new Comment([
+            'author' => $userName,
+            'message' => $request->input('message'),
+        ]);
+        $post->comments()->save($comment); // Associate the comment with the post
+
+        return redirect()->route('posts.show', $post)->with('success', 'Comment added successfully.');
+    }
+
+    // Method to store a new reply for a comment
+    public function storeReply(Request $request, Comment $comment)
+    {
+        // Validate input data using Laravel's validation rules
+        $request->validate([
+            'author' => 'required|max:255', // Author is required and maximum 255 characters
+            'message' => 'required', // Message is required
+        ]);
+
+        // Create a new reply instance with validated data
+        $reply = new CommentReply([
+            'author' => $request->input('author'),
+            'message' => $request->input('message'),
+        ]);
+        $comment->replies()->save($reply); // Associate the reply with the comment
+
+        return redirect()->back()->with('success', 'Reply added successfully.');
+    }
+
+    // ...
+}

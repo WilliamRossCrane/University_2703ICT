@@ -1,0 +1,42 @@
+vscode-remote://s5096657.elf.ict.griffith.edu.au:8443/var/www/html/webAppDev/Assignment1/app/Models/CommentReply.php {"mtime":1693284587381,"ctime":1693284587381,"size":183,"etag":"3b4ka4qkn5s","orphaned":false,"typeId":""}
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class CommentReply extends Model
+{
+    use HasFactory;
+
+    // Relationship with the user who created the reply
+    public function user()
+    {
+        return $this->belongsTo(User::class, 'author'); // Assuming 'author' is the user_id
+    }
+
+    // Relationship with the comment this reply belongs to
+    public function comment()
+    {
+        return $this->belongsTo(Comment::class);
+    }
+
+    // Relationship with likes on this reply
+    public function likes()
+    {
+        return $this->morphMany(Like::class, 'likable');
+    }
+
+    // Relationship with replies to this reply
+    public function replies()
+    {
+        return $this->hasMany(CommentReply::class, 'parent_id');
+    }
+
+    // Relationship with the parent reply (if this reply is a sub-reply)
+    public function parentReply()
+    {
+        return $this->belongsTo(CommentReply::class, 'parent_id');
+    }
+}

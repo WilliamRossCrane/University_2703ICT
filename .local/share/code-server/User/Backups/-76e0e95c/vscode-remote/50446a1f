@@ -1,0 +1,36 @@
+vscode-remote://s5096657.elf.ict.griffith.edu.au:8443/var/www/html/webAppDev/week4/task5/assoc-laravel/resources/views/pm/results.blade.php {"mtime":1691202443260,"ctime":1691202443260,"size":0,"etag":"3b15o8j2j0","orphaned":false,"typeId":""}
+@extends('layouts.app')
+
+@section('content')
+    <h3>Search result for {{ $searchString }}</h3>
+    @if (count($pms) == 0)
+        <p>No results found.</p>
+    @else
+        <table class="bordered">
+            <thead>
+                <tr>
+                    <th>No.</th>
+                    <th>Name</th>
+                    <th>From</th>
+                    <th>To</th>
+                    <th>Duration</th>
+                    <th>Party</th>
+                    <th>State</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach($pms as $pm)
+                    <tr>
+                        <td>{{ $pm['index'] }}</td>
+                        <td>{{ $pm['name'] }}</td>
+                        <td>{{ $pm['from'] }}</td>
+                        <td>{{ $pm['to'] }}</td>
+                        <td>{{ $pm['duration'] }}</td>
+                        <td>{{ $pm['party'] }}</td>
+                        <td>{{ $pm['state'] }}</td>
+                    </tr>
+                @endforeach
+            </tbody>
+        </table>
+    @endif
+@endsection

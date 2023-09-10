@@ -1,0 +1,22 @@
+vscode-remote://s5096657.elf.ict.griffith.edu.au:8443/var/www/html/webAppDev/week4/task5/assoc-laravel/resources/views/layouts/app.blade.php {"mtime":1691202373851,"ctime":1691202373851,"size":0,"etag":"3b15o5ng70","orphaned":false,"typeId":""}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Australian Prime Ministers</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="{{ asset('styles/wp.css') }}">
+</head>
+<body>
+    <h2>Australian Prime Ministers</h2>
+    <div class="content">
+        @yield('content')
+    </div>
+    <hr>
+    <p>
+        Sources:
+        <a href="{{ route('pm.search') }}">results.php</a>
+        <a href="{{ asset('includes/defs.php') }}">includes/defs.php</a>
+        <a href="{{ asset('includes/pms.php') }}">includes/pms.php</a>
+    </p>
+</body>
+</html>

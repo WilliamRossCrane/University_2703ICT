@@ -1,0 +1,32 @@
+vscode-remote://s5096657.elf.ict.griffith.edu.au:8443/var/www/html/webAppDev/Assignment1/database/migrations/2023_08_29_045428_add_likes_to_posts.php {"mtime":1693284868592,"ctime":1693284868592,"size":530,"etag":"3b4kagd2lh3","orphaned":false,"typeId":""}
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreatePostsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('posts', function (Blueprint $table) {
+            $table->id();
+            $table->string('title');
+            $table->string('author');
+            $table->text('message');
+            $table->integer('likes')->default(0); // Add the likes column with default value 0
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('posts');
+    }
+}

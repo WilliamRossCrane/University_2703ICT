@@ -1,0 +1,18 @@
+2023-09-08 14:53:17.433 [info] 
+
+
+
+
+2023-09-08 14:53:17.463 [info] Extension host agent started.
+2023-09-08 14:54:57.397 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/usr/local/code-server-4.13.0-linux-amd64/lib/vscode/out/vs/server/node/server.main.js:163:6339)
+    at process.emit (node:events:525:35)
+2023-09-08 14:56:40.497 [info] [<unknown>][c266c28c][ManagementConnection] New connection established.
+2023-09-08 14:56:41.979 [warning] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: libsecret-1.so.0: cannot open shared object file: No such file or directory
+2023-09-08 14:56:42.745 [info] [<unknown>][d022db3c][ExtensionHostConnection] New connection established.
+2023-09-08 14:56:42.755 [info] [<unknown>][d022db3c][ExtensionHostConnection] <913> Launched Extension Host Process.
+2023-09-08 17:42:10.510 [info] [<unknown>][c266c28c][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2023-09-08 17:42:11.383 [info] [<unknown>][c266c28c][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2023-09-08 17:42:11.384 [info] [<unknown>][d022db3c][ExtensionHostConnection] The client has reconnected.
+2023-09-08 17:42:12.003 [info] [<unknown>][c266c28c][ManagementConnection] The client has reconnected.
+2023-09-08 17:59:41.434 [info] [<unknown>][c266c28c][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...

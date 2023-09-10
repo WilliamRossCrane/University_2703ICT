@@ -1,0 +1,121 @@
+0 verbose cli /usr/bin/node /usr/bin/npm
+1 info using npm@9.7.2
+2 info using node@v18.16.1
+3 timing npm:load:whichnode Completed in 1ms
+4 timing config:load:defaults Completed in 2ms
+5 timing config:load:file:/usr/lib/node_modules/npm/npmrc Completed in 1ms
+6 timing config:load:builtin Completed in 1ms
+7 timing config:load:cli Completed in 3ms
+8 timing config:load:env Completed in 1ms
+9 timing config:load:file:/var/www/.cache/typescript/5.0/.npmrc Completed in 0ms
+10 timing config:load:project Completed in 18ms
+11 timing config:load:file:/var/www/.npmrc Completed in 1ms
+12 timing config:load:user Completed in 1ms
+13 timing config:load:file:/usr/etc/npmrc Completed in 0ms
+14 timing config:load:global Completed in 0ms
+15 timing config:load:setEnvs Completed in 1ms
+16 timing config:load Completed in 27ms
+17 timing npm:load:configload Completed in 27ms
+18 timing config:load:flatten Completed in 2ms
+19 timing npm:load:mkdirpcache Completed in 1ms
+20 timing npm:load:mkdirplogs Completed in 0ms
+21 verbose title npm install types-registry@latest
+22 verbose argv "install" "--ignore-scripts" "types-registry@latest"
+23 timing npm:load:setTitle Completed in 0ms
+24 timing npm:load:display Completed in 1ms
+25 verbose logfile logs-max:10 dir:/var/www/.npm/_logs/2023-09-05T06_18_48_674Z-
+26 verbose logfile /var/www/.npm/_logs/2023-09-05T06_18_48_674Z-debug-0.log
+27 timing npm:load:logFile Completed in 11ms
+28 timing npm:load:timers Completed in 0ms
+29 timing npm:load:configScope Completed in 0ms
+30 timing npm:load Completed in 59ms
+31 timing arborist:ctor Completed in 1ms
+32 silly logfile done cleaning log files
+33 timing idealTree:init Completed in 36ms
+34 timing arborist:ctor Completed in 0ms
+35 http fetch GET 200 https://registry.npmjs.org/types-registry 334ms (cache updated)
+36 timing idealTree:userRequests Completed in 340ms
+37 silly idealTree buildDeps
+38 silly fetch manifest types-registry@0.1.659
+39 silly placeDep ROOT types-registry@0.1.659 REPLACE for:  want: 0.1.659
+40 timing idealTree:#root Completed in 7ms
+41 timing idealTree:node_modules/types-registry Completed in 0ms
+42 timing idealTree:buildDeps Completed in 8ms
+43 timing idealTree:fixDepFlags Completed in 1ms
+44 timing idealTree Completed in 388ms
+45 timing reify:loadTrees Completed in 389ms
+46 timing reify:diffTrees Completed in 3ms
+47 silly reify mark retired [ '/var/www/.cache/typescript/5.0/node_modules/types-registry' ]
+48 silly reify moves {
+48 silly reify   '/var/www/.cache/typescript/5.0/node_modules/types-registry': '/var/www/.cache/typescript/5.0/node_modules/.types-registry-uLydhEa4'
+48 silly reify }
+49 timing reify:retireShallow Completed in 6ms
+50 timing reify:createSparse Completed in 2ms
+51 timing reify:loadBundles Completed in 0ms
+52 silly audit bulk request {
+52 silly audit   '@popperjs/core': [ '2.11.8' ],
+52 silly audit   '@types/bootstrap': [ '5.2.6' ],
+52 silly audit   '@types/jquery': [ '3.5.16' ],
+52 silly audit   '@types/lodash': [ '4.14.196' ],
+52 silly audit   '@types/node': [ '20.4.8' ],
+52 silly audit   '@types/node-sass': [ '4.11.3' ],
+52 silly audit   '@types/sass-loader': [ '8.0.5' ],
+52 silly audit   '@types/sizzle': [ '2.3.3' ],
+52 silly audit   '@types/source-list-map': [ '0.1.2' ],
+52 silly audit   '@types/tapable': [ '1.0.8' ],
+52 silly audit   '@types/uglify-js': [ '3.17.1' ],
+52 silly audit   '@types/webpack': [ '4.41.33' ],
+52 silly audit   '@types/webpack-sources': [ '3.2.0' ],
+52 silly audit   'source-map': [ '0.7.4', '0.6.1' ],
+52 silly audit   anymatch: [ '3.1.3' ],
+52 silly audit   'binary-extensions': [ '2.2.0' ],
+52 silly audit   braces: [ '3.0.2' ],
+52 silly audit   chokidar: [ '3.5.3' ],
+52 silly audit   'fill-range': [ '7.0.1' ],
+52 silly audit   fsevents: [ '2.3.2' ],
+52 silly audit   'glob-parent': [ '5.1.2' ],
+52 silly audit   immutable: [ '4.3.2' ],
+52 silly audit   'is-binary-path': [ '2.1.0' ],
+52 silly audit   'is-extglob': [ '2.1.1' ],
+52 silly audit   'is-glob': [ '4.0.3' ],
+52 silly audit   'is-number': [ '7.0.0' ],
+52 silly audit   'normalize-path': [ '3.0.0' ],
+52 silly audit   picomatch: [ '2.3.1' ],
+52 silly audit   readdirp: [ '3.6.0' ],
+52 silly audit   sass: [ '1.64.2' ],
+52 silly audit   'source-map-js': [ '1.0.2' ],
+52 silly audit   'to-regex-range': [ '5.0.1' ],
+52 silly audit   'types-registry': [ '0.1.659' ]
+52 silly audit }
+53 verbose reify failed optional dependency /var/www/.cache/typescript/5.0/node_modules/fsevents
+54 silly reify mark deleted [ '/var/www/.cache/typescript/5.0/node_modules/fsevents' ]
+55 timing reifyNode:node_modules/fsevents Completed in 4ms
+56 silly tarball no local data for types-registry@https://registry.npmjs.org/types-registry/-/types-registry-0.1.659.tgz. Extracting by manifest.
+57 http fetch GET 200 https://registry.npmjs.org/npm 553ms (cache updated)
+58 http fetch GET 200 https://registry.npmjs.org/types-registry/-/types-registry-0.1.659.tgz 164ms (cache miss)
+59 timing reifyNode:node_modules/types-registry Completed in 173ms
+60 timing reify:unpack Completed in 173ms
+61 timing reify:unretire Completed in 0ms
+62 timing build:queue Completed in 1ms
+63 timing build:deps Completed in 1ms
+64 timing build Completed in 2ms
+65 timing reify:build Completed in 2ms
+66 timing reify:trash Completed in 4ms
+67 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 203ms
+68 timing auditReport:getReport Completed in 205ms
+69 silly audit report {}
+70 timing auditReport:init Completed in 0ms
+71 timing reify:audit Completed in 207ms
+72 timing reify:save Completed in 56ms
+73 timing reify Completed in 661ms
+74 silly ADD
+75 silly CHANGE node_modules/types-registry
+76 timing command:install Completed in 667ms
+77 notice
+77 notice New major version of npm available! 9.7.2 -> 10.0.0
+77 notice Changelog: <https://github.com/npm/cli/releases/tag/v10.0.0>
+77 notice Run `npm install -g npm@10.0.0` to update!
+77 notice
+78 verbose exit 0
+79 timing npm Completed in 901ms
+80 info ok

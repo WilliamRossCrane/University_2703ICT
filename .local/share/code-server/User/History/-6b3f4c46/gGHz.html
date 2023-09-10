@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<!-- Home page for basic factorisation example. -->
+<html>
+  <head>
+    <title>Factorisation form</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="styles/wp.css">
+  </head>
+  
+  <body>  
+    <h1>Factorisation</h1>
+
+    <!-- Task 3: New factorisation form -->
+    <form method="get" action="factorise.php">
+      <p>Number to factorise: <input type="text" name="number" value="<?= $_GET['number'] ?? '' ?>">
+      <!-- The value attribute is set to the previous input value using the PHP null coalescing operator ?? -->
+      <!-- If there is no previous input value, an empty string is used -->
+      <p><input type="submit" value="Factorise it!">
+    </form>
+
+    <!-- Task 7: Display the list of previous factorizations -->
+    <h2>History</h2>
+    <pre><?php echo file_get_contents("history.txt"); ?></pre>
+  </body>
+</html>

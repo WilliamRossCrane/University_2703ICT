@@ -1,0 +1,23 @@
+vscode-remote://s5096657.elf.ict.griffith.edu.au:8443/var/www/html/webAppDev/Assignment1/app/Models/Comment.php {"mtime":1693281836967,"ctime":1693281836967,"size":178,"etag":"3b4k6848r5n","orphaned":false,"typeId":""}
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class Comment extends Model
+{
+    use HasFactory;
+
+    // Define the fields that are fillable
+    protected $fillable = ['author', 'message'];
+
+    // Define the relationship to the parent post
+    public function post()
+    {
+        return $this->belongsTo(Post::class);
+    }
+
+    // Other methods and relationships can be added here as needed
+}

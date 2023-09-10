@@ -8,3 +8,274 @@
 Failed login attempt {"xForwardedFor":"10.24.32.82","remoteAddress":"10.0.1.3","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","timestamp":1689910869}
 [13:42:23] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: libsecret-1.so.0: cannot open shared object file: No such file or directory
 File not found: /usr/local/code-server-4.13.0-linux-amd64/lib/vscode/node_modules/vscode-regexp-languagedetection/dist/index.js
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/usr/local/code-server-4.13.0-linux-amd64/lib/vscode/out/bootstrap.js:1:419)
+    at process.emit (node:events:525:35)
+[10:36:35] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/usr/local/code-server-4.13.0-linux-amd64/lib/vscode/out/vs/server/node/server.main.js:163:6339)
+    at process.emit (node:events:525:35)
+[10:43:57] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: libsecret-1.so.0: cannot open shared object file: No such file or directory
+File not found: /usr/local/code-server-4.13.0-linux-amd64/lib/vscode/node_modules/vscode-regexp-languagedetection/dist/index.js
+[13:51:25] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: libsecret-1.so.0: cannot open shared object file: No such file or directory
+[18:12:27] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: libsecret-1.so.0: cannot open shared object file: No such file or directory
+File not found: /usr/local/code-server-4.13.0-linux-amd64/lib/vscode/node_modules/vscode-regexp-languagedetection/dist/index.js
+[10:58:37] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: libsecret-1.so.0: cannot open shared object file: No such file or directory
+[13:41:39] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: libsecret-1.so.0: cannot open shared object file: No such file or directory
+[11:54:40] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: libsecret-1.so.0: cannot open shared object file: No such file or directory
+[12:55:48] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: libsecret-1.so.0: cannot open shared object file: No such file or directory
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/usr/local/code-server-4.13.0-linux-amd64/lib/vscode/out/bootstrap.js:1:419)
+    at process.emit (node:events:525:35)
+[12:56:51] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/usr/local/code-server-4.13.0-linux-amd64/lib/vscode/out/vs/server/node/server.main.js:163:6339)
+    at process.emit (node:events:525:35)
+[12:57:03] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[12:57:03] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[12:57:08] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[12:57:08] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[12:57:13] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[12:57:13] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[12:57:19] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[12:57:19] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[12:57:33] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[12:57:33] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[12:57:39] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[12:57:39] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[12:57:44] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[12:57:44] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[12:57:50] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[12:57:50] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[12:57:56] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[12:57:56] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[12:58:01] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[12:58:01] [File Watcher (universal)] gave up attempting to restart watcher after error: Operation not permitted
+[13:09:15] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[13:09:15] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[13:09:20] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[13:09:20] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[13:09:26] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[13:09:26] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[13:09:31] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[13:09:31] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[13:09:36] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[13:09:36] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[13:09:42] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[13:09:42] [File Watcher (universal)] gave up attempting to restart watcher after error: Operation not permitted
+Failed login attempt {"xForwardedFor":"10.24.32.177","remoteAddress":"10.0.1.5","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36","timestamp":1691456028}
+[10:54:12] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: libsecret-1.so.0: cannot open shared object file: No such file or directory
+[10:54:13] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[10:54:13] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[10:54:13] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[10:54:13] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[10:54:14] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[10:54:14] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[10:54:14] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[10:54:14] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[10:54:15] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[10:54:15] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[10:54:15] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[10:54:15] [File Watcher (universal)] gave up attempting to restart watcher after error: Operation not permitted
+[21:19:53] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: libsecret-1.so.0: cannot open shared object file: No such file or directory
+[21:20:05] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[21:20:05] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[21:20:11] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[21:20:11] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[21:20:16] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[21:20:16] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[21:20:21] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[21:20:21] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[21:20:27] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[21:20:27] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[21:20:32] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[21:20:32] [File Watcher (universal)] gave up attempting to restart watcher after error: Operation not permitted
+[18:14:49] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: libsecret-1.so.0: cannot open shared object file: No such file or directory
+[18:14:57] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[18:14:57] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[18:15:03] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[18:15:03] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[18:15:09] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[18:15:09] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[18:15:14] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[18:15:14] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[18:15:20] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[18:15:20] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[18:15:25] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[18:15:25] [File Watcher (universal)] gave up attempting to restart watcher after error: Operation not permitted
+[10:57:19] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: libsecret-1.so.0: cannot open shared object file: No such file or directory
+[10:57:27] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[10:57:27] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[10:57:33] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[10:57:33] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[10:57:38] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[10:57:38] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[10:57:44] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[10:57:44] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[10:57:49] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[10:57:49] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[10:57:55] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[10:57:55] [File Watcher (universal)] gave up attempting to restart watcher after error: Operation not permitted
+[12:52:54] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[12:52:54] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[12:52:59] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[12:52:59] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[12:53:05] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[12:53:05] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[12:53:10] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[12:53:10] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[12:53:16] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[12:53:16] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[12:53:21] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[12:53:21] [File Watcher (universal)] gave up attempting to restart watcher after error: Operation not permitted
+[12:54:39] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[12:54:39] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[12:54:44] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[12:54:44] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[12:54:50] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[12:54:50] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[12:54:56] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[12:54:56] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[12:55:01] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[12:55:01] [File Watcher (universal)] restarting watcher after error: Operation not permitted
+[12:55:07] [File Watcher (parcel)] Unexpected error: Operation not permitted (EUNKNOWN) (path: /)
+[12:55:07] [File Watcher (universal)] gave up attempting to restart watcher after error: Operation not permitted
+[IPC Library: Pty Host] xterm.js: Parsing error:  {
+  position: 1465,
+  code: 127,
+  currentState: 0,
+  collect: 0,
+  params: {
+    maxLength: 32,
+    maxSubParamsLength: 32,
+    params: {
+      '0': 0,
+      '1': 0,
+      '2': 0,
+      '3': 0,
+      '4': 0,
+      '5': 0,
+      '6': 0,
+      '7': 0,
+      '8': 0,
+      '9': 0,
+      '10': 0,
+      '11': 0,
+      '12': 0,
+      '13': 0,
+      '14': 0,
+      '15': 0,
+      '16': 0,
+      '17': 0,
+      '18': 0,
+      '19': 0,
+      '20': 0,
+      '21': 0,
+      '22': 0,
+      '23': 0,
+      '24': 0,
+      '25': 0,
+      '26': 0,
+      '27': 0,
+      '28': 0,
+      '29': 0,
+      '30': 0,
+      '31': 0
+    },
+    length: 1,
+    _subParams: {
+      '0': 0,
+      '1': 0,
+      '2': 0,
+      '3': 0,
+      '4': 0,
+      '5': 0,
+      '6': 0,
+      '7': 0,
+      '8': 0,
+      '9': 0,
+      '10': 0,
+      '11': 0,
+      '12': 0,
+      '13': 0,
+      '14': 0,
+      '15': 0,
+      '16': 0,
+      '17': 0,
+      '18': 0,
+      '19': 0,
+      '20': 0,
+      '21': 0,
+      '22': 0,
+      '23': 0,
+      '24': 0,
+      '25': 0,
+      '26': 0,
+      '27': 0,
+      '28': 0,
+      '29': 0,
+      '30': 0,
+      '31': 0
+    },
+    _subParamsLength: 0,
+    _subParamsIdx: {
+      '0': 0,
+      '1': 0,
+      '2': 0,
+      '3': 0,
+      '4': 0,
+      '5': 0,
+      '6': 0,
+      '7': 0,
+      '8': 0,
+      '9': 0,
+      '10': 0,
+      '11': 0,
+      '12': 0,
+      '13': 0,
+      '14': 0,
+      '15': 0,
+      '16': 0,
+      '17': 0,
+      '18': 0,
+      '19': 0,
+      '20': 0,
+      '21': 0,
+      '22': 0,
+      '23': 0,
+      '24': 0,
+      '25': 0,
+      '26': 0,
+      '27': 0,
+      '28': 0,
+      '29': 0,
+      '30': 0,
+      '31': 0
+    },
+    _rejectDigits: false,
+    _rejectSubDigits: false,
+    _digitIsSub: false
+  },
+  abort: false
+}
+[01:20:52] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: libsecret-1.so.0: cannot open shared object file: No such file or directory
+[13:10:07] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: libsecret-1.so.0: cannot open shared object file: No such file or directory
+[14:36:50] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: libsecret-1.so.0: cannot open shared object file: No such file or directory
+File not found: /usr/local/code-server-4.13.0-linux-amd64/lib/vscode/extensions/git-base/dist/browser/extension.js
+File not found: /usr/local/code-server-4.13.0-linux-amd64/lib/vscode/extensions/merge-conflict/dist/browser/mergeConflictMain.js
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/usr/local/code-server-4.13.0-linux-amd64/lib/vscode/out/bootstrap.js:1:419)
+    at process.emit (node:events:525:35)
+[15:03:42] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/usr/local/code-server-4.13.0-linux-amd64/lib/vscode/out/vs/server/node/server.main.js:163:6339)
+    at process.emit (node:events:525:35)
+[22:16:48] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: libsecret-1.so.0: cannot open shared object file: No such file or directory
+[16:03:53] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: libsecret-1.so.0: cannot open shared object file: No such file or directory
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/usr/local/code-server-4.13.0-linux-amd64/lib/vscode/out/bootstrap.js:1:419)
+    at process.emit (node:events:525:35)
+[14:54:57] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/usr/local/code-server-4.13.0-linux-amd64/lib/vscode/out/vs/server/node/server.main.js:163:6339)
+    at process.emit (node:events:525:35)
+[14:56:41] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: libsecret-1.so.0: cannot open shared object file: No such file or directory
+[15:30:23] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: libsecret-1.so.0: cannot open shared object file: No such file or directory
+[01:23:11] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: libsecret-1.so.0: cannot open shared object file: No such file or directory
+[16:27:39] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: libsecret-1.so.0: cannot open shared object file: No such file or directory

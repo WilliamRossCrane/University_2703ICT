@@ -69,3 +69,732 @@
 [IPC Library: Pty Host]  INFO Persistent process reconnection "2"
 [IPC Library: Pty Host]  INFO Persistent process "1": Replaying 38 chars and 1 size events
 [IPC Library: Pty Host]  INFO Persistent process "2": Replaying 4063 chars and 1 size events
+[15:09:46] [<unknown>][c4c9bea5][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[15:09:46] [<unknown>][c85c699b][ExtensionHostConnection] <19866> Extension Host Process exited with code: 0, signal: null.
+[2023-07-25T00:35:18.656Z] info  code-server 4.13.0 2798322b03e7f446f59c5142215c11711ed7a427
+[2023-07-25T00:35:18.657Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-07-25T00:35:18.685Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-07-25T00:35:18.685Z] info  HTTPS server listening on https://0.0.0.0:8443/
+[2023-07-25T00:35:18.685Z] info    - Authentication is enabled
+[2023-07-25T00:35:18.685Z] info      - Using password from $PASSWORD
+[2023-07-25T00:35:18.685Z] info    - Using certificate for HTTPS: ~/.local/share/code-server/localhost.crt
+[10:35:27] 
+
+
+
+
+[10:35:27] Extension host agent started.
+[10:43:55] [<unknown>][539bda4f][ManagementConnection] New connection established.
+[10:43:58] [<unknown>][609bcc5e][ExtensionHostConnection] New connection established.
+[10:43:58] [<unknown>][609bcc5e][ExtensionHostConnection] <1345> Launched Extension Host Process.
+[10:47:39] [<unknown>][539bda4f][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[10:47:41] [<unknown>][539bda4f][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[10:47:41] [<unknown>][609bcc5e][ExtensionHostConnection] The client has reconnected.
+[10:47:42] [<unknown>][539bda4f][ManagementConnection] The client has reconnected.
+[10:54:46] [<unknown>][5ee4545a][ManagementConnection] New connection established.
+[10:54:49] [<unknown>][62d79df5][ExtensionHostConnection] New connection established.
+[10:54:49] [<unknown>][62d79df5][ExtensionHostConnection] <3763> Launched Extension Host Process.
+[11:03:32] [<unknown>][539bda4f][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[11:34:39] [<unknown>][5ee4545a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[11:34:39] [<unknown>][62d79df5][ExtensionHostConnection] <3763> Extension Host Process exited with code: 0, signal: null.
+[2023-07-28T03:50:05.467Z] info  code-server 4.13.0 2798322b03e7f446f59c5142215c11711ed7a427
+[2023-07-28T03:50:05.468Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-07-28T03:50:05.514Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-07-28T03:50:05.514Z] info  HTTPS server listening on https://0.0.0.0:8443/
+[2023-07-28T03:50:05.514Z] info    - Authentication is enabled
+[2023-07-28T03:50:05.514Z] info      - Using password from $PASSWORD
+[2023-07-28T03:50:05.514Z] info    - Using certificate for HTTPS: ~/.local/share/code-server/localhost.crt
+[13:51:10] 
+
+
+
+
+[13:51:10] Extension host agent started.
+[13:51:24] [<unknown>][5080c4b2][ManagementConnection] New connection established.
+[13:51:26] [<unknown>][af198630][ExtensionHostConnection] New connection established.
+[13:51:26] [<unknown>][af198630][ExtensionHostConnection] <817> Launched Extension Host Process.
+[14:22:26] [<unknown>][5080c4b2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[14:22:26] [<unknown>][af198630][ExtensionHostConnection] <817> Extension Host Process exited with code: 0, signal: null.
+[2023-07-30T08:10:42.137Z] info  code-server 4.13.0 2798322b03e7f446f59c5142215c11711ed7a427
+[2023-07-30T08:10:42.138Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-07-30T08:10:42.217Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-07-30T08:10:42.217Z] info  HTTPS server listening on https://0.0.0.0:8443/
+[2023-07-30T08:10:42.217Z] info    - Authentication is enabled
+[2023-07-30T08:10:42.217Z] info      - Using password from $PASSWORD
+[2023-07-30T08:10:42.217Z] info    - Using certificate for HTTPS: ~/.local/share/code-server/localhost.crt
+[18:12:12] 
+
+
+
+
+[18:12:12] Extension host agent started.
+[18:12:25] [<unknown>][d05c6079][ManagementConnection] New connection established.
+[18:12:28] [<unknown>][0131a413][ExtensionHostConnection] New connection established.
+[18:12:28] [<unknown>][0131a413][ExtensionHostConnection] <674> Launched Extension Host Process.
+[18:13:30] [<unknown>][d05c6079][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[18:13:31] [<unknown>][d05c6079][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[18:13:31] [<unknown>][d05c6079][ManagementConnection] The client has reconnected.
+[18:13:31] [<unknown>][0131a413][ExtensionHostConnection] The client has reconnected.
+[18:23:05] [<unknown>][dafeb555][ManagementConnection] New connection established.
+[18:23:09] [<unknown>][c976a0e5][ExtensionHostConnection] New connection established.
+[18:23:09] [<unknown>][c976a0e5][ExtensionHostConnection] <2870> Launched Extension Host Process.
+[18:23:13] [<unknown>][d05c6079][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[18:58:19] [<unknown>][dafeb555][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[18:58:19] [<unknown>][c976a0e5][ExtensionHostConnection] <2870> Extension Host Process exited with code: 0, signal: null.
+[18:58:22] [<unknown>][d05c6079][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[18:58:22] [<unknown>][59f54149][ManagementConnection] New connection established.
+[18:58:25] [<unknown>][b8adb7c2][ExtensionHostConnection] New connection established.
+[18:58:25] [<unknown>][b8adb7c2][ExtensionHostConnection] <16275> Launched Extension Host Process.
+[IPC Library: Pty Host]  WARN Persistent process "1": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  WARN Persistent process "2": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "1"
+[IPC Library: Pty Host]  INFO Persistent process reconnection "2"
+[IPC Library: Pty Host]  INFO Persistent process "1": Replaying 122 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "2": Replaying 528 chars and 1 size events
+[19:03:22] [<unknown>][d05c6079][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[19:03:22] [<unknown>][0131a413][ExtensionHostConnection] <674> Extension Host Process exited with code: 0, signal: null.
+[19:15:29] [<unknown>][59f54149][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[19:15:29] [<unknown>][b8adb7c2][ExtensionHostConnection] <16275> Extension Host Process exited with code: 0, signal: null.
+[19:15:32] [<unknown>][c86834fb][ManagementConnection] New connection established.
+[19:15:53] [<unknown>][37faec2d][ExtensionHostConnection] New connection established.
+[19:15:54] [<unknown>][37faec2d][ExtensionHostConnection] <20712> Launched Extension Host Process.
+[IPC Library: Pty Host]  WARN Persistent process "1": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "1"
+[IPC Library: Pty Host]  WARN Persistent process "2": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "2"
+[IPC Library: Pty Host]  INFO Persistent process "1": Replaying 122 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "2": Replaying 528 chars and 1 size events
+[19:44:36] [<unknown>][2eab9aed][ManagementConnection] New connection established.
+[19:44:39] [<unknown>][b05a059d][ExtensionHostConnection] New connection established.
+[19:44:39] [<unknown>][b05a059d][ExtensionHostConnection] <26358> Launched Extension Host Process.
+[IPC Library: Pty Host]  WARN Persistent process "1": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "1"
+[IPC Library: Pty Host]  WARN Persistent process "2": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "2"
+[IPC Library: Pty Host]  INFO Persistent process "1": Replaying 122 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "2": Replaying 528 chars and 1 size events
+[19:47:58] [<unknown>][2eab9aed][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[19:47:58] [<unknown>][b05a059d][ExtensionHostConnection] <26358> Extension Host Process exited with code: 0, signal: null.
+[19:59:46] [<unknown>][c86834fb][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2023-08-01T00:57:42.840Z] info  code-server 4.13.0 2798322b03e7f446f59c5142215c11711ed7a427
+[2023-08-01T00:57:42.842Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-08-01T00:57:42.872Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-08-01T00:57:42.872Z] info  HTTPS server listening on https://0.0.0.0:8443/
+[2023-08-01T00:57:42.872Z] info    - Authentication is enabled
+[2023-08-01T00:57:42.872Z] info      - Using password from $PASSWORD
+[2023-08-01T00:57:42.872Z] info    - Using certificate for HTTPS: ~/.local/share/code-server/localhost.crt
+[10:58:15] 
+
+
+
+
+[10:58:15] Extension host agent started.
+[10:58:35] [<unknown>][b66cb27c][ManagementConnection] New connection established.
+[10:58:38] [<unknown>][010f37df][ExtensionHostConnection] New connection established.
+[10:58:38] [<unknown>][010f37df][ExtensionHostConnection] <722> Launched Extension Host Process.
+[11:19:18] [<unknown>][b66cb27c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[11:19:18] [<unknown>][010f37df][ExtensionHostConnection] <722> Extension Host Process exited with code: 0, signal: null.
+[2023-08-04T03:41:22.999Z] info  code-server 4.13.0 2798322b03e7f446f59c5142215c11711ed7a427
+[2023-08-04T03:41:23.001Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-08-04T03:41:23.030Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-08-04T03:41:23.030Z] info  HTTPS server listening on https://0.0.0.0:8443/
+[2023-08-04T03:41:23.030Z] info    - Authentication is enabled
+[2023-08-04T03:41:23.030Z] info      - Using password from $PASSWORD
+[2023-08-04T03:41:23.030Z] info    - Using certificate for HTTPS: ~/.local/share/code-server/localhost.crt
+[13:41:30] 
+
+
+
+
+[13:41:30] Extension host agent started.
+[13:41:38] [<unknown>][f3c3c552][ManagementConnection] New connection established.
+[13:41:40] [<unknown>][4f77886b][ExtensionHostConnection] New connection established.
+[13:41:40] [<unknown>][4f77886b][ExtensionHostConnection] <818> Launched Extension Host Process.
+[15:06:56] [<unknown>][f3c3c552][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[15:13:51] [<unknown>][f3c3c552][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[15:13:51] [<unknown>][b3868a97][ManagementConnection] New connection established.
+[15:13:59] [<unknown>][70fcf2ac][ExtensionHostConnection] New connection established.
+[15:13:59] [<unknown>][70fcf2ac][ExtensionHostConnection] <22517> Launched Extension Host Process.
+[IPC Library: Pty Host]  WARN Persistent process "1": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  WARN Persistent process "2": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  WARN Persistent process "8": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  WARN Persistent process "3": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "1"
+[IPC Library: Pty Host]  INFO Persistent process reconnection "2"
+[IPC Library: Pty Host]  INFO Persistent process reconnection "8"
+[IPC Library: Pty Host]  INFO Persistent process reconnection "3"
+[IPC Library: Pty Host]  WARN Persistent process "4": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  WARN Persistent process "5": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  WARN Persistent process "6": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  WARN Persistent process "7": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "4"
+[IPC Library: Pty Host]  INFO Persistent process reconnection "5"
+[IPC Library: Pty Host]  INFO Persistent process reconnection "6"
+[IPC Library: Pty Host]  INFO Persistent process reconnection "7"
+[IPC Library: Pty Host]  INFO Persistent process "1": Replaying 9187 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "2": Replaying 163 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "8": Replaying 279 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "3": Replaying 9679 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "4": Replaying 368 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "5": Replaying 279 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "6": Replaying 9421 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "7": Replaying 9673 chars and 1 size events
+[15:18:51] [<unknown>][f3c3c552][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[15:18:51] [<unknown>][4f77886b][ExtensionHostConnection] <818> Extension Host Process exited with code: 0, signal: null.
+[15:19:27] [<unknown>][70fcf2ac][ExtensionHostConnection] The client has reconnected.
+[15:57:17] [<unknown>][b3868a97][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2023-08-05T01:54:17.292Z] info  code-server 4.13.0 2798322b03e7f446f59c5142215c11711ed7a427
+[2023-08-05T01:54:17.293Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-08-05T01:54:17.314Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-08-05T01:54:17.314Z] info  HTTPS server listening on https://0.0.0.0:8443/
+[2023-08-05T01:54:17.314Z] info    - Authentication is enabled
+[2023-08-05T01:54:17.314Z] info      - Using password from $PASSWORD
+[2023-08-05T01:54:17.314Z] info    - Using certificate for HTTPS: ~/.local/share/code-server/localhost.crt
+[11:54:34] 
+
+
+
+
+[11:54:34] Extension host agent started.
+[11:54:39] [<unknown>][d3bb4923][ManagementConnection] New connection established.
+[11:54:41] [<unknown>][533b9082][ExtensionHostConnection] New connection established.
+[11:54:41] [<unknown>][533b9082][ExtensionHostConnection] <578> Launched Extension Host Process.
+[12:50:26] [<unknown>][d3bb4923][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2023-08-07T02:54:28.077Z] info  code-server 4.13.0 2798322b03e7f446f59c5142215c11711ed7a427
+[2023-08-07T02:54:28.078Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-08-07T02:54:28.109Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-08-07T02:54:28.109Z] info  HTTPS server listening on https://0.0.0.0:8443/
+[2023-08-07T02:54:28.109Z] info    - Authentication is enabled
+[2023-08-07T02:54:28.109Z] info      - Using password from $PASSWORD
+[2023-08-07T02:54:28.109Z] info    - Using certificate for HTTPS: ~/.local/share/code-server/localhost.crt
+[12:55:38] 
+
+
+
+
+[12:55:38] Extension host agent started.
+[12:55:47] [<unknown>][f048809a][ManagementConnection] New connection established.
+[12:55:49] [<unknown>][e72b5e3b][ExtensionHostConnection] New connection established.
+[12:55:49] [<unknown>][e72b5e3b][ExtensionHostConnection] <818> Launched Extension Host Process.
+[12:56:43] [<unknown>][f048809a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[12:56:43] [<unknown>][e72b5e3b][ExtensionHostConnection] <818> Extension Host Process exited with code: 0, signal: null.
+[12:56:45] [<unknown>][d244fcd9][ManagementConnection] New connection established.
+[12:56:46] [<unknown>][d244fcd9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[12:56:49] [<unknown>][e22779ee][ManagementConnection] New connection established.
+[12:56:51] [<unknown>][e22779ee][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[12:56:54] [<unknown>][c0b4f54f][ManagementConnection] New connection established.
+[12:56:57] [<unknown>][df600792][ExtensionHostConnection] New connection established.
+[12:56:57] [<unknown>][df600792][ExtensionHostConnection] <2082> Launched Extension Host Process.
+[12:57:21] [<unknown>][c0b4f54f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[12:57:21] [<unknown>][df600792][ExtensionHostConnection] <2082> Extension Host Process exited with code: 0, signal: null.
+[12:57:26] [<unknown>][178a64b9][ManagementConnection] New connection established.
+[12:57:28] [<unknown>][d2702b81][ExtensionHostConnection] New connection established.
+[12:57:28] [<unknown>][d2702b81][ExtensionHostConnection] <2560> Launched Extension Host Process.
+[13:09:06] [<unknown>][178a64b9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[13:09:06] [<unknown>][d2702b81][ExtensionHostConnection] <2560> Extension Host Process exited with code: 0, signal: null.
+[13:09:08] [<unknown>][55355ca3][ManagementConnection] New connection established.
+[13:09:10] [<unknown>][3adb4c6b][ExtensionHostConnection] New connection established.
+[13:09:10] [<unknown>][3adb4c6b][ExtensionHostConnection] <5694> Launched Extension Host Process.
+[IPC Library: Pty Host]  WARN Persistent process "2": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "2"
+[IPC Library: Pty Host]  WARN Persistent process "3": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  WARN Persistent process "4": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "3"
+[IPC Library: Pty Host]  INFO Persistent process reconnection "4"
+[IPC Library: Pty Host]  INFO Persistent process "2": Replaying 53 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "3": Replaying 555 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "4": Replaying 3848 chars and 1 size events
+[13:29:33] [<unknown>][55355ca3][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[13:29:33] [<unknown>][55355ca3][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[13:29:33] [<unknown>][3adb4c6b][ExtensionHostConnection] The client has reconnected.
+[13:29:34] [<unknown>][55355ca3][ManagementConnection] The client has reconnected.
+[13:47:03] [<unknown>][55355ca3][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2023-08-08T00:53:36.875Z] info  code-server 4.13.0 2798322b03e7f446f59c5142215c11711ed7a427
+[2023-08-08T00:53:36.875Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-08-08T00:53:36.945Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-08-08T00:53:36.946Z] info  HTTPS server listening on https://0.0.0.0:8443/
+[2023-08-08T00:53:36.946Z] info    - Authentication is enabled
+[2023-08-08T00:53:36.946Z] info      - Using password from $PASSWORD
+[2023-08-08T00:53:36.946Z] info    - Using certificate for HTTPS: ~/.local/share/code-server/localhost.crt
+[10:53:45] 
+
+
+
+
+[10:53:45] Extension host agent started.
+[10:54:10] [<unknown>][f5aafaa2][ManagementConnection] New connection established.
+[10:54:13] [<unknown>][92e848e8][ExtensionHostConnection] New connection established.
+[10:54:13] [<unknown>][92e848e8][ExtensionHostConnection] <988> Launched Extension Host Process.
+[11:15:47] [<unknown>][f5aafaa2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[11:15:48] [<unknown>][92e848e8][ExtensionHostConnection] <988> Extension Host Process exited with code: 0, signal: null.
+[2023-08-26T11:19:21.794Z] info  code-server 4.13.0 2798322b03e7f446f59c5142215c11711ed7a427
+[2023-08-26T11:19:21.795Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-08-26T11:19:21.815Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-08-26T11:19:21.815Z] info  HTTPS server listening on https://0.0.0.0:8443/
+[2023-08-26T11:19:21.815Z] info    - Authentication is enabled
+[2023-08-26T11:19:21.815Z] info      - Using password from $PASSWORD
+[2023-08-26T11:19:21.815Z] info    - Using certificate for HTTPS: ~/.local/share/code-server/localhost.crt
+[21:19:36] 
+
+
+
+
+[21:19:36] Extension host agent started.
+[21:19:52] [<unknown>][b1440563][ManagementConnection] New connection established.
+[21:19:54] [<unknown>][be4c4dc2][ExtensionHostConnection] New connection established.
+[21:19:54] [<unknown>][be4c4dc2][ExtensionHostConnection] <1058> Launched Extension Host Process.
+[22:06:00] [<unknown>][b1440563][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[22:06:01] [<unknown>][b1440563][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[22:06:01] [<unknown>][be4c4dc2][ExtensionHostConnection] The client has reconnected.
+[22:11:01] [<unknown>][b1440563][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[2023-08-28T08:14:17.721Z] info  code-server 4.13.0 2798322b03e7f446f59c5142215c11711ed7a427
+[2023-08-28T08:14:17.722Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-08-28T08:14:17.755Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-08-28T08:14:17.755Z] info  HTTPS server listening on https://0.0.0.0:8443/
+[2023-08-28T08:14:17.755Z] info    - Authentication is enabled
+[2023-08-28T08:14:17.755Z] info      - Using password from $PASSWORD
+[2023-08-28T08:14:17.755Z] info    - Using certificate for HTTPS: ~/.local/share/code-server/localhost.crt
+[18:14:29] 
+
+
+
+
+[18:14:29] Extension host agent started.
+[18:14:48] [<unknown>][6ca16bc1][ManagementConnection] New connection established.
+[18:14:50] [<unknown>][22cf7c14][ExtensionHostConnection] New connection established.
+[18:14:50] [<unknown>][22cf7c14][ExtensionHostConnection] <578> Launched Extension Host Process.
+[18:21:35] [<unknown>][6ca16bc1][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[18:21:36] [<unknown>][6ca16bc1][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[18:21:36] [<unknown>][22cf7c14][ExtensionHostConnection] The client has reconnected.
+[18:21:36] [<unknown>][6ca16bc1][ManagementConnection] The client has reconnected.
+[18:39:02] [<unknown>][6ca16bc1][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2023-08-29T00:55:34.954Z] info  code-server 4.13.0 2798322b03e7f446f59c5142215c11711ed7a427
+[2023-08-29T00:55:34.955Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-08-29T00:55:34.975Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-08-29T00:55:34.975Z] info  HTTPS server listening on https://0.0.0.0:8443/
+[2023-08-29T00:55:34.975Z] info    - Authentication is enabled
+[2023-08-29T00:55:34.975Z] info      - Using password from $PASSWORD
+[2023-08-29T00:55:34.975Z] info    - Using certificate for HTTPS: ~/.local/share/code-server/localhost.crt
+[10:57:13] 
+
+
+
+
+[10:57:13] Extension host agent started.
+[10:57:18] [<unknown>][7202e971][ManagementConnection] New connection established.
+[10:57:20] [<unknown>][11842ba7][ExtensionHostConnection] New connection established.
+[10:57:20] [<unknown>][11842ba7][ExtensionHostConnection] <578> Launched Extension Host Process.
+[12:52:43] [<unknown>][7202e971][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[12:52:43] [<unknown>][11842ba7][ExtensionHostConnection] <578> Extension Host Process exited with code: 0, signal: null.
+[12:52:45] [<unknown>][6254a966][ManagementConnection] New connection established.
+[12:52:46] [<unknown>][a9dc6d1d][ExtensionHostConnection] New connection established.
+[12:52:46] [<unknown>][a9dc6d1d][ExtensionHostConnection] <21896> Launched Extension Host Process.
+[IPC Library: Pty Host]  WARN Persistent process "1": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "1"
+[IPC Library: Pty Host]  INFO Persistent process "1": Replaying 2035 chars and 1 size events
+[12:54:25] [<unknown>][6254a966][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[12:54:25] [<unknown>][a9dc6d1d][ExtensionHostConnection] <21896> Extension Host Process exited with code: 0, signal: null.
+[12:54:27] [<unknown>][c18877bf][ManagementConnection] New connection established.
+[12:54:28] [<unknown>][c18877bf][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[12:54:29] [<unknown>][c18877bf][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[12:54:29] [<unknown>][bc619438][ManagementConnection] New connection established.
+[12:54:30] [<unknown>][bc619438][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[12:54:30] [<unknown>][bc619438][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[12:54:30] [<unknown>][0bacf62a][ManagementConnection] New connection established.
+[12:54:32] [<unknown>][eb58b6e2][ExtensionHostConnection] New connection established.
+[12:54:32] [<unknown>][eb58b6e2][ExtensionHostConnection] <22717> Launched Extension Host Process.
+[IPC Library: Pty Host]  WARN Persistent process "1": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "1"
+[IPC Library: Pty Host]  INFO Persistent process "1": Replaying 2035 chars and 1 size events
+[12:59:29] [<unknown>][c18877bf][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[12:59:30] [<unknown>][bc619438][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[15:07:54] [<unknown>][0bacf62a][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[15:07:55] [<unknown>][0bacf62a][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[15:07:55] [<unknown>][eb58b6e2][ExtensionHostConnection] The client has reconnected.
+[15:07:55] [<unknown>][0bacf62a][ManagementConnection] The client has reconnected.
+[15:25:13] [<unknown>][0bacf62a][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2023-09-02T15:20:30.804Z] info  code-server 4.13.0 2798322b03e7f446f59c5142215c11711ed7a427
+[2023-09-02T15:20:30.804Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-09-02T15:20:31.589Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-09-02T15:20:31.589Z] info  HTTPS server listening on https://0.0.0.0:8443/
+[2023-09-02T15:20:31.589Z] info    - Authentication is enabled
+[2023-09-02T15:20:31.589Z] info      - Using password from $PASSWORD
+[2023-09-02T15:20:31.589Z] info    - Using certificate for HTTPS: ~/.local/share/code-server/localhost.crt
+[01:20:36] 
+
+
+
+
+[01:20:36] Extension host agent started.
+[01:20:50] [<unknown>][fd89a0a9][ManagementConnection] New connection established.
+[01:20:53] [<unknown>][94724f46][ExtensionHostConnection] New connection established.
+[01:20:53] [<unknown>][94724f46][ExtensionHostConnection] <639> Launched Extension Host Process.
+[01:32:49] [<unknown>][fd89a0a9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[01:32:49] [<unknown>][94724f46][ExtensionHostConnection] <639> Extension Host Process exited with code: 0, signal: null.
+[01:32:52] [<unknown>][bcfadedf][ManagementConnection] New connection established.
+[01:32:54] [<unknown>][fe664038][ExtensionHostConnection] New connection established.
+[01:32:54] [<unknown>][fe664038][ExtensionHostConnection] <3299> Launched Extension Host Process.
+[IPC Library: Pty Host]  WARN Persistent process "1": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "1"
+[IPC Library: Pty Host]  WARN Persistent process "2": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "2"
+[IPC Library: Pty Host]  WARN Persistent process "3": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  WARN Persistent process "4": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "3"
+[IPC Library: Pty Host]  INFO Persistent process reconnection "4"
+[IPC Library: Pty Host]  INFO Persistent process "1": Replaying 72 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "2": Replaying 72 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "3": Replaying 72 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "4": Replaying 72 chars and 1 size events
+[01:49:17] [<unknown>][bcfadedf][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[01:49:18] [<unknown>][bcfadedf][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[01:49:18] [<unknown>][fe664038][ExtensionHostConnection] The client has reconnected.
+[01:49:18] [<unknown>][bcfadedf][ManagementConnection] The client has reconnected.
+[02:01:39] [<unknown>][c2d1ffd8][ManagementConnection] New connection established.
+[02:01:41] [<unknown>][470bf9df][ExtensionHostConnection] New connection established.
+[02:01:41] [<unknown>][470bf9df][ExtensionHostConnection] <9326> Launched Extension Host Process.
+[IPC Library: Pty Host]  WARN Persistent process "1": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "1"
+[IPC Library: Pty Host]  WARN Persistent process "6": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "6"
+[IPC Library: Pty Host]  WARN Persistent process "2": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "2"
+[IPC Library: Pty Host]  WARN Persistent process "3": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  WARN Persistent process "4": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  WARN Persistent process "5": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "3"
+[IPC Library: Pty Host]  INFO Persistent process reconnection "4"
+[IPC Library: Pty Host]  INFO Persistent process reconnection "5"
+[IPC Library: Pty Host]  INFO Persistent process "1": Replaying 72 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "6": Replaying 571 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "2": Replaying 72 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "3": Replaying 72 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "4": Replaying 72 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "5": Replaying 178 chars and 1 size events
+[02:04:51] [<unknown>][bcfadedf][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[03:50:13] [<unknown>][c2d1ffd8][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[03:50:13] [<unknown>][bcfadedf][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[03:50:13] [<unknown>][c2d1ffd8][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[03:50:13] [<unknown>][470bf9df][ExtensionHostConnection] The client has reconnected.
+[03:50:14] [<unknown>][c2d1ffd8][ManagementConnection] The client has reconnected.
+[03:55:14] [<unknown>][bcfadedf][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[03:55:14] [<unknown>][fe664038][ExtensionHostConnection] <3299> Extension Host Process exited with code: 0, signal: null.
+[04:05:45] [<unknown>][c2d1ffd8][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2023-09-03T03:09:52.985Z] info  code-server 4.13.0 2798322b03e7f446f59c5142215c11711ed7a427
+[2023-09-03T03:09:52.986Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-09-03T03:09:53.005Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-09-03T03:09:53.005Z] info  HTTPS server listening on https://0.0.0.0:8443/
+[2023-09-03T03:09:53.005Z] info    - Authentication is enabled
+[2023-09-03T03:09:53.006Z] info      - Using password from $PASSWORD
+[2023-09-03T03:09:53.006Z] info    - Using certificate for HTTPS: ~/.local/share/code-server/localhost.crt
+[13:09:59] 
+
+
+
+
+[13:09:59] Extension host agent started.
+[13:10:05] [<unknown>][9294018f][ManagementConnection] New connection established.
+[13:10:08] [<unknown>][b1fedbf0][ExtensionHostConnection] New connection established.
+[13:10:08] [<unknown>][b1fedbf0][ExtensionHostConnection] <578> Launched Extension Host Process.
+[14:08:38] [<unknown>][9294018f][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[14:08:39] [<unknown>][9294018f][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[14:08:39] [<unknown>][b1fedbf0][ExtensionHostConnection] The client has reconnected.
+[14:13:39] [<unknown>][9294018f][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[14:18:32] [<unknown>][7c52f1c9][ManagementConnection] New connection established.
+[14:18:34] [<unknown>][e4983816][ExtensionHostConnection] New connection established.
+[14:18:34] [<unknown>][e4983816][ExtensionHostConnection] <15233> Launched Extension Host Process.
+[IPC Library: Pty Host]  WARN Persistent process "2": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "2"
+[IPC Library: Pty Host]  WARN Persistent process "1": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "1"
+[IPC Library: Pty Host]  INFO Persistent process "2": Replaying 5012 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "1": Replaying 41 chars and 1 size events
+[14:59:42] [<unknown>][7c52f1c9][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[14:59:43] [<unknown>][7c52f1c9][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[14:59:43] [<unknown>][e4983816][ExtensionHostConnection] The client has reconnected.
+[14:59:44] [<unknown>][7c52f1c9][ManagementConnection] The client has reconnected.
+[15:04:43] [<unknown>][b1fedbf0][ExtensionHostConnection] <578> Extension Host Process exited with code: 0, signal: null.
+[15:15:43] [<unknown>][7c52f1c9][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2023-09-05T04:36:20.146Z] info  code-server 4.13.0 2798322b03e7f446f59c5142215c11711ed7a427
+[2023-09-05T04:36:20.147Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-09-05T04:36:20.209Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-09-05T04:36:20.209Z] info  HTTPS server listening on https://0.0.0.0:8443/
+[2023-09-05T04:36:20.209Z] info    - Authentication is enabled
+[2023-09-05T04:36:20.209Z] info      - Using password from $PASSWORD
+[2023-09-05T04:36:20.209Z] info    - Using certificate for HTTPS: ~/.local/share/code-server/localhost.crt
+[14:36:27] 
+
+
+
+
+[14:36:27] Extension host agent started.
+[14:36:48] [<unknown>][c31b2d58][ManagementConnection] New connection established.
+[14:36:51] [<unknown>][8916262e][ExtensionHostConnection] New connection established.
+[14:36:51] [<unknown>][8916262e][ExtensionHostConnection] <627> Launched Extension Host Process.
+[14:43:43] [<unknown>][c31b2d58][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[14:43:44] [<unknown>][c31b2d58][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[14:43:44] [<unknown>][8916262e][ExtensionHostConnection] The client has reconnected.
+[14:43:45] [<unknown>][c31b2d58][ManagementConnection] The client has reconnected.
+[14:59:38] [<unknown>][c31b2d58][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[15:03:01] [<unknown>][c31b2d58][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[15:03:01] [<unknown>][9684f3a7][ManagementConnection] New connection established.
+[15:03:12] [<unknown>][e9294d70][ExtensionHostConnection] New connection established.
+[15:03:12] [<unknown>][e9294d70][ExtensionHostConnection] <6165> Launched Extension Host Process.
+[15:03:33] [<unknown>][9684f3a7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[15:03:37] [<unknown>][ccebd68a][ManagementConnection] New connection established.
+[15:03:40] [<unknown>][ccebd68a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[15:03:41] [<unknown>][078bdad9][ExtensionHostConnection] New connection established.
+[15:03:41] [<unknown>][078bdad9][ExtensionHostConnection] <6904> Launched Extension Host Process.
+[15:03:46] [<unknown>][65213b5e][ManagementConnection] New connection established.
+[15:03:50] [<unknown>][65602824][ExtensionHostConnection] New connection established.
+[15:03:50] [<unknown>][65602824][ExtensionHostConnection] <7419> Launched Extension Host Process.
+[IPC Library: Pty Host]  WARN Persistent process "2": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "2"
+[IPC Library: Pty Host]  WARN Persistent process "1": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "1"
+[IPC Library: Pty Host]  INFO Persistent process "2": Replaying 885 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "1": Replaying 41 chars and 1 size events
+[15:08:01] [<unknown>][c31b2d58][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[15:08:01] [<unknown>][8916262e][ExtensionHostConnection] <627> Extension Host Process exited with code: 0, signal: null.
+[15:08:37] [<unknown>][e9294d70][ExtensionHostConnection] <6165> Extension Host Process exited with code: 0, signal: null.
+[15:08:46] [<unknown>][078bdad9][ExtensionHostConnection] <6904> Extension Host Process exited with code: 0, signal: null.
+[15:41:02] [<unknown>][65213b5e][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[15:57:31] [<unknown>][65213b5e][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[15:57:31] [<unknown>][cadf562a][ManagementConnection] New connection established.
+[15:57:33] [<unknown>][eb16394e][ExtensionHostConnection] New connection established.
+[15:57:33] [<unknown>][eb16394e][ExtensionHostConnection] <19261> Launched Extension Host Process.
+[IPC Library: Pty Host]  WARN Persistent process "2": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "2"
+[IPC Library: Pty Host]  INFO Persistent process "2": Replaying 5166 chars and 1 size events
+[IPC Library: Pty Host]  WARN Persistent process "1": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "1"
+[IPC Library: Pty Host]  INFO Persistent process "1": Replaying 41 chars and 1 size events
+[16:02:31] [<unknown>][65213b5e][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[16:02:31] [<unknown>][65602824][ExtensionHostConnection] <7419> Extension Host Process exited with code: 0, signal: null.
+[16:20:53] [<unknown>][eb16394e][ExtensionHostConnection] The client has reconnected.
+[16:21:03] [<unknown>][cadf562a][ManagementConnection] The client has reconnected.
+[16:28:39] [<unknown>][cadf562a][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[16:28:40] [<unknown>][cadf562a][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[16:28:40] [<unknown>][cadf562a][ManagementConnection] The client has reconnected.
+[16:28:40] [<unknown>][eb16394e][ExtensionHostConnection] The client has reconnected.
+[16:46:06] [<unknown>][cadf562a][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2023-09-05T12:16:33.695Z] info  code-server 4.13.0 2798322b03e7f446f59c5142215c11711ed7a427
+[2023-09-05T12:16:33.696Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-09-05T12:16:33.716Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-09-05T12:16:33.716Z] info  HTTPS server listening on https://0.0.0.0:8443/
+[2023-09-05T12:16:33.716Z] info    - Authentication is enabled
+[2023-09-05T12:16:33.716Z] info      - Using password from $PASSWORD
+[2023-09-05T12:16:33.716Z] info    - Using certificate for HTTPS: ~/.local/share/code-server/localhost.crt
+[22:16:40] 
+
+
+
+
+[22:16:40] Extension host agent started.
+[22:16:47] [<unknown>][4f38d383][ManagementConnection] New connection established.
+[22:16:49] [<unknown>][0d093910][ExtensionHostConnection] New connection established.
+[22:16:49] [<unknown>][0d093910][ExtensionHostConnection] <578> Launched Extension Host Process.
+[00:24:52] [<unknown>][4f38d383][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[00:24:52] [<unknown>][4f38d383][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[00:24:52] [<unknown>][0d093910][ExtensionHostConnection] The client has reconnected.
+[00:24:53] [<unknown>][4f38d383][ManagementConnection] The client has reconnected.
+[00:40:27] [<unknown>][4f38d383][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2023-09-07T06:03:15.950Z] info  code-server 4.13.0 2798322b03e7f446f59c5142215c11711ed7a427
+[2023-09-07T06:03:15.951Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-09-07T06:03:15.980Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-09-07T06:03:15.980Z] info  HTTPS server listening on https://0.0.0.0:8443/
+[2023-09-07T06:03:15.980Z] info    - Authentication is enabled
+[2023-09-07T06:03:15.980Z] info      - Using password from $PASSWORD
+[2023-09-07T06:03:15.980Z] info    - Using certificate for HTTPS: ~/.local/share/code-server/localhost.crt
+[16:03:30] 
+
+
+
+
+[16:03:30] Extension host agent started.
+[16:03:51] [<unknown>][c723a163][ManagementConnection] New connection established.
+[16:03:55] [<unknown>][ba5849c8][ExtensionHostConnection] New connection established.
+[16:03:55] [<unknown>][ba5849c8][ExtensionHostConnection] <639> Launched Extension Host Process.
+[17:04:33] [<unknown>][118c696e][ManagementConnection] New connection established.
+[17:04:37] [<unknown>][5dd47b09][ExtensionHostConnection] New connection established.
+[17:04:37] [<unknown>][5dd47b09][ExtensionHostConnection] <12383> Launched Extension Host Process.
+[IPC Library: Pty Host]  WARN Persistent process "2": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "2"
+[IPC Library: Pty Host]  INFO Persistent process "2": Replaying 621 chars and 1 size events
+[IPC Library: Pty Host]  WARN Persistent process "1": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "1"
+[IPC Library: Pty Host]  INFO Persistent process "1": Replaying 41 chars and 1 size events
+[17:12:04] [<unknown>][c723a163][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[17:35:22] [<unknown>][118c696e][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[17:35:23] [<unknown>][c723a163][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[17:35:23] [<unknown>][118c696e][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[17:35:23] [<unknown>][5dd47b09][ExtensionHostConnection] The client has reconnected.
+[17:35:24] [<unknown>][118c696e][ManagementConnection] The client has reconnected.
+[17:40:24] [<unknown>][c723a163][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[17:40:24] [<unknown>][ba5849c8][ExtensionHostConnection] <639> Extension Host Process exited with code: 0, signal: null.
+[17:51:59] [<unknown>][118c696e][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[18:56:38] [<unknown>][118c696e][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[18:56:38] [<unknown>][118c696e][ManagementConnection] The client has reconnected.
+[18:56:39] [<unknown>][5dd47b09][ExtensionHostConnection] The client has reconnected.
+[19:46:39] [<unknown>][118c696e][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[19:46:42] [<unknown>][118c696e][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[19:46:42] [<unknown>][5dd47b09][ExtensionHostConnection] The client has reconnected.
+[19:46:43] [<unknown>][118c696e][ManagementConnection] The client has reconnected.
+[19:58:46] [<unknown>][b93af5e5][ManagementConnection] New connection established.
+[19:58:49] [<unknown>][143db4cd][ExtensionHostConnection] New connection established.
+[19:58:49] [<unknown>][143db4cd][ExtensionHostConnection] <51172> Launched Extension Host Process.
+[IPC Library: Pty Host]  WARN Persistent process "3": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "3"
+[IPC Library: Pty Host]  WARN Persistent process "1": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  WARN Persistent process "2": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "1"
+[IPC Library: Pty Host]  INFO Persistent process reconnection "2"
+[IPC Library: Pty Host]  INFO Persistent process "3": Replaying 267 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "1": Replaying 41 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "2": Replaying 1213 chars and 1 size events
+[20:02:18] [<unknown>][118c696e][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[20:39:48] [<unknown>][b93af5e5][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2023-09-08T04:53:10.711Z] info  code-server 4.13.0 2798322b03e7f446f59c5142215c11711ed7a427
+[2023-09-08T04:53:10.712Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-09-08T04:53:10.732Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-09-08T04:53:10.732Z] info  HTTPS server listening on https://0.0.0.0:8443/
+[2023-09-08T04:53:10.733Z] info    - Authentication is enabled
+[2023-09-08T04:53:10.733Z] info      - Using password from $PASSWORD
+[2023-09-08T04:53:10.733Z] info    - Using certificate for HTTPS: ~/.local/share/code-server/localhost.crt
+[14:53:17] 
+
+
+
+
+[14:53:17] Extension host agent started.
+[14:56:40] [<unknown>][c266c28c][ManagementConnection] New connection established.
+[14:56:42] [<unknown>][d022db3c][ExtensionHostConnection] New connection established.
+[14:56:42] [<unknown>][d022db3c][ExtensionHostConnection] <913> Launched Extension Host Process.
+[17:42:10] [<unknown>][c266c28c][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[17:42:11] [<unknown>][c266c28c][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[17:42:11] [<unknown>][d022db3c][ExtensionHostConnection] The client has reconnected.
+[17:42:12] [<unknown>][c266c28c][ManagementConnection] The client has reconnected.
+[17:59:41] [<unknown>][c266c28c][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2023-09-09T05:30:05.732Z] info  code-server 4.13.0 2798322b03e7f446f59c5142215c11711ed7a427
+[2023-09-09T05:30:05.733Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-09-09T05:30:05.753Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-09-09T05:30:05.753Z] info  HTTPS server listening on https://0.0.0.0:8443/
+[2023-09-09T05:30:05.753Z] info    - Authentication is enabled
+[2023-09-09T05:30:05.754Z] info      - Using password from $PASSWORD
+[2023-09-09T05:30:05.754Z] info    - Using certificate for HTTPS: ~/.local/share/code-server/localhost.crt
+[15:30:16] 
+
+
+
+
+[15:30:16] Extension host agent started.
+[15:30:21] [<unknown>][10425f01][ManagementConnection] New connection established.
+[15:30:23] [<unknown>][46a086fa][ExtensionHostConnection] New connection established.
+[15:30:23] [<unknown>][46a086fa][ExtensionHostConnection] <578> Launched Extension Host Process.
+[15:55:06] [<unknown>][46a086fa][ExtensionHostConnection] The client has reconnected.
+[16:05:19] [<unknown>][00a23367][ManagementConnection] New connection established.
+[16:05:22] [<unknown>][71f7e521][ExtensionHostConnection] New connection established.
+[16:05:22] [<unknown>][71f7e521][ExtensionHostConnection] <7530> Launched Extension Host Process.
+[IPC Library: Pty Host]  WARN Persistent process "1": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "1"
+[IPC Library: Pty Host]  INFO Persistent process "1": Replaying 41 chars and 1 size events
+[16:10:19] [<unknown>][46a086fa][ExtensionHostConnection] <578> Extension Host Process exited with code: 0, signal: null.
+[16:10:51] [<unknown>][10425f01][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[17:01:00] [<unknown>][10425f01][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[17:01:00] [<unknown>][4dc5faeb][ManagementConnection] New connection established.
+[17:01:04] [<unknown>][ad28c5bc][ExtensionHostConnection] New connection established.
+[17:01:04] [<unknown>][ad28c5bc][ExtensionHostConnection] <19888> Launched Extension Host Process.
+[IPC Library: Pty Host]  WARN Persistent process "2": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "2"
+[IPC Library: Pty Host]  WARN Persistent process "1": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "1"
+[IPC Library: Pty Host]  INFO Persistent process "2": Replaying 65 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "1": Replaying 41 chars and 1 size events
+[17:06:00] [<unknown>][10425f01][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[17:07:17] [<unknown>][ad28c5bc][ExtensionHostConnection] The client has reconnected.
+[17:08:09] [<unknown>][ad28c5bc][ExtensionHostConnection] The client has reconnected.
+[17:10:01] [<unknown>][90df0d7e][ManagementConnection] New connection established.
+[17:10:03] [<unknown>][73ce3bc4][ExtensionHostConnection] New connection established.
+[17:10:03] [<unknown>][73ce3bc4][ExtensionHostConnection] <23582> Launched Extension Host Process.
+[IPC Library: Pty Host]  WARN Persistent process "2": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "2"
+[IPC Library: Pty Host]  WARN Persistent process "1": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "1"
+[IPC Library: Pty Host]  INFO Persistent process "2": Replaying 65 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "1": Replaying 41 chars and 1 size events
+[17:12:06] [<unknown>][00a23367][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[17:16:03] [<unknown>][90df0d7e][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[17:24:13] [<unknown>][4dc5faeb][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[19:27:23] [<unknown>][00a23367][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[19:27:23] [<unknown>][4dc5faeb][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[19:27:23] [<unknown>][90df0d7e][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[19:27:23] [<unknown>][7a35bf14][ManagementConnection] New connection established.
+[19:27:26] [<unknown>][83784667][ExtensionHostConnection] New connection established.
+[19:27:26] [<unknown>][83784667][ExtensionHostConnection] <96523> Launched Extension Host Process.
+[IPC Library: Pty Host]  WARN Persistent process "2": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "2"
+[IPC Library: Pty Host]  WARN Persistent process "1": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "1"
+[IPC Library: Pty Host]  INFO Persistent process "2": Replaying 65 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "1": Replaying 41 chars and 1 size events
+[19:32:23] [<unknown>][00a23367][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[19:32:23] [<unknown>][4dc5faeb][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[19:32:23] [<unknown>][90df0d7e][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[19:32:23] [<unknown>][71f7e521][ExtensionHostConnection] <7530> Extension Host Process exited with code: 0, signal: null.
+[19:32:23] [<unknown>][ad28c5bc][ExtensionHostConnection] <19888> Extension Host Process exited with code: 0, signal: null.
+[19:32:23] [<unknown>][73ce3bc4][ExtensionHostConnection] <23582> Extension Host Process exited with code: 0, signal: null.
+[19:53:38] [<unknown>][d03b8d55][ManagementConnection] New connection established.
+[19:53:42] [<unknown>][187966d2][ExtensionHostConnection] New connection established.
+[19:53:42] [<unknown>][187966d2][ExtensionHostConnection] <104636> Launched Extension Host Process.
+[IPC Library: Pty Host]  WARN Persistent process "2": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "2"
+[IPC Library: Pty Host]  WARN Persistent process "1": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "1"
+[IPC Library: Pty Host]  INFO Persistent process "2": Replaying 65 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "1": Replaying 41 chars and 1 size events
+[19:57:19] [<unknown>][7a35bf14][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[20:10:21] [<unknown>][d03b8d55][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[20:10:23] [<unknown>][7a35bf14][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[20:10:23] [<unknown>][d03b8d55][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[20:10:23] [<unknown>][187966d2][ExtensionHostConnection] The client has reconnected.
+[20:10:24] [<unknown>][d03b8d55][ManagementConnection] The client has reconnected.
+[20:15:23] [<unknown>][83784667][ExtensionHostConnection] <96523> Extension Host Process exited with code: 0, signal: null.
+[20:15:23] [<unknown>][7a35bf14][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[20:26:48] [<unknown>][d03b8d55][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2023-09-09T15:22:49.240Z] info  code-server 4.13.0 2798322b03e7f446f59c5142215c11711ed7a427
+[2023-09-09T15:22:49.241Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-09-09T15:22:49.261Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-09-09T15:22:49.261Z] info  HTTPS server listening on https://0.0.0.0:8443/
+[2023-09-09T15:22:49.261Z] info    - Authentication is enabled
+[2023-09-09T15:22:49.261Z] info      - Using password from $PASSWORD
+[2023-09-09T15:22:49.261Z] info    - Using certificate for HTTPS: ~/.local/share/code-server/localhost.crt
+[01:22:58] 
+
+
+
+
+[01:22:58] Extension host agent started.
+[01:23:09] [<unknown>][27bfb920][ManagementConnection] New connection established.
+[01:23:13] [<unknown>][22e83d2d][ExtensionHostConnection] New connection established.
+[01:23:13] [<unknown>][22e83d2d][ExtensionHostConnection] <578> Launched Extension Host Process.
+[02:13:29] [<unknown>][27bfb920][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[02:13:31] [<unknown>][27bfb920][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[02:13:31] [<unknown>][22e83d2d][ExtensionHostConnection] The client has reconnected.
+[02:13:33] [<unknown>][27bfb920][ManagementConnection] The client has reconnected.
+[02:29:43] [<unknown>][27bfb920][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2023-09-10T06:27:16.148Z] info  code-server 4.13.0 2798322b03e7f446f59c5142215c11711ed7a427
+[2023-09-10T06:27:16.149Z] info  Using user-data-dir ~/.local/share/code-server
+[2023-09-10T06:27:16.169Z] info  Using config file ~/.config/code-server/config.yaml
+[2023-09-10T06:27:16.169Z] info  HTTPS server listening on https://0.0.0.0:8443/
+[2023-09-10T06:27:16.169Z] info    - Authentication is enabled
+[2023-09-10T06:27:16.169Z] info      - Using password from $PASSWORD
+[2023-09-10T06:27:16.169Z] info    - Using certificate for HTTPS: ~/.local/share/code-server/localhost.crt
+[16:27:21] 
+
+
+
+
+[16:27:21] Extension host agent started.
+[16:27:38] [<unknown>][fb494779][ManagementConnection] New connection established.
+[16:27:40] [<unknown>][7e9fc248][ExtensionHostConnection] New connection established.
+[16:27:40] [<unknown>][7e9fc248][ExtensionHostConnection] <626> Launched Extension Host Process.

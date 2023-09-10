@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://s5096657.elf.ict.griffith.edu.au:8443/var/www"
+		},
+		{
+			"uri": "vscode-remote://s5096657.elf.ict.griffith.edu.au:8443/"
+		}
+	],
+	"remoteAuthority": "s5096657.elf.ict.griffith.edu.au:8443",
+	"settings": {}
+}

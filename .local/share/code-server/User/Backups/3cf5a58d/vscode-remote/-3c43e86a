@@ -1,0 +1,23 @@
+vscode-remote://s5096657.elf.ict.griffith.edu.au:8443/var/www/html/webAppDev/Assignment1/app/Models/Post.php {"mtime":1693281826336,"ctime":1693281826336,"size":175,"etag":"3b4k67kja5k","orphaned":false,"typeId":""}
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class Post extends Model
+{
+    use HasFactory;
+
+    // Define the fields that are fillable, including the 'likes' field
+    protected $fillable = ['title', 'author', 'message', 'likes'];
+
+    // Define the relationship to comments
+    public function comments()
+    {
+        return $this->hasMany(Comment::class);
+    }
+
+    // Other methods and relationships can be added here as needed
+}

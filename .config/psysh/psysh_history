@@ -1,0 +1,13 @@
+DB::connection()->getPdo();
+exit
+Schema::hasTable('posts');
+$user = new \App\Models\User();
+$user->name = 'John Doe'; // Replace with the user's name
+$user->email = 'john@example.com'; // Replace with the user's email
+$user->password = bcrypt('your_password_here'); // Replace with the user's password
+$user->save();
+php artisan config:clear
+$user = \App\Models\User::find(1);
+
+$user
+

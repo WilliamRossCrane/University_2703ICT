@@ -1,0 +1,17 @@
+vscode-remote://s5096657.elf.ict.griffith.edu.au:8443/var/www/html/webAppDev/Assignment1/resources/views/posts/index.blade.php {"mtime":1693282442862,"ctime":1693282442862,"size":0,"etag":"3b4k73slp0","orphaned":false,"typeId":""}
+@extends('layouts.app')
+
+@section('content')
+    <h1>Posts</h1>
+    <ul>
+        @foreach ($posts as $post)
+            <li>
+                <a href="{{ route('posts.show', $post) }}">{{ $post->title }}</a>
+                <span>{{ $post->author }}</span>
+            </li>
+        @endforeach
+    </ul>
+    <!-- Display the user's name from the session -->
+    <p>Logged in as: {{ session('user_name') }}</p>
+    <a href="{{ route('posts.create') }}">Create New Post</a>
+@endsection
